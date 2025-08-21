@@ -1,0 +1,13 @@
+{
+	"name": "SHIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "linked-selfhost from datafactory1",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/7c1897d8-2065-435d-b50d-ab1a9fd59915/resourcegroups/de-01-project/providers/Microsoft.DataFactory/factories/de-01-df/integrationruntimes/SHIR",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}

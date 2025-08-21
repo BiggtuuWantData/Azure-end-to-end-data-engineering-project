@@ -1,0 +1,9 @@
+{
+	"name": "de02-datafactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "370ab174-e6f4-454e-88fd-1e66867aa51f",
+		"tenantId": "ec5887f2-a570-4c21-a5e7-2ef466375cf0"
+	}
+}
